@@ -11,10 +11,10 @@
 **Linux**
 `./atelier.py`
 
-## 🖥️ Preview [Windows]
+## 🖥️ Preview(1st) [Windows]
 ![alt text](https://i.hizliresim.com/t7g1tgr.png)
 
-## 🖥️ Preview [Windows]
+## 🖥️ Preview(2nd) [Windows]
 ![alt text](https://i.hizliresim.com/p9ic8ex.png)
 
 ## ⚠️ DISCLAIMER 
