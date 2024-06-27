@@ -7,7 +7,7 @@ from colorama   import Fore
 from tkinter    import filedialog
 
 def main():
-    os.system("title Atelier801 - CleinKelvinn")
+    os.system("title Atelier801 - CleinKelvinn")a
     root = tk.Tk()
     root.withdraw()
     
