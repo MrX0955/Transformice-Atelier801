@@ -1,10 +1,10 @@
 # ✨ Atelier801 - Transformice ✨
-**_Atelier801 Login Encryption_**
+**_Atelier801 - Transformice Login Password Encryption WordList Generator_**
 
 ##  👾 Features 
 - _Generating Account List For Login Encryption of The Atelier801._
 - _Easy to use and Faster_
-- _#Updated June 27, 2024 at 7:00 AM ~ Made By CleinKelvinn_
+- _Updated June 27, 2024 at 7:00 AM ~ Made By CleinKelvinn_
 
 ## ✍️ Usage 
 **Windows:**
