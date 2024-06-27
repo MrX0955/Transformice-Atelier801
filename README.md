@@ -12,7 +12,10 @@
 `./atelier.py`
 
 ## 🖥️ Preview [Windows]
-![alt text](https://i.hizliresim.com/2vyx54l.png)
+![alt text](https://i.hizliresim.com/t7g1tgr.png)
+
+## 🖥️ Preview [Windows]
+![alt text](https://i.hizliresim.com/p9ic8ex.png)
 
 ## ⚠️ DISCLAIMER 
 **This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.**
