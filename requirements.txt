@@ -2,4 +2,3 @@ hashlib
 urllib3
 colorama
 tkinter
-
